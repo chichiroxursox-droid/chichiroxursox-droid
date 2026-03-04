@@ -6,7 +6,7 @@ Senior at Science Leadership Academy @ Beeber, Philadelphia. I build AI tools an
 
 ## Projects
 
-### CULTIVaITE (fAIthful.ly)
+### fAIthful.ly
 AI startup helping small nonprofits automate communications — newsletters, donor emails, social posts, and board updates.
 `Python` `Claude API` `HTML/CSS/JS`
 
@@ -15,7 +15,7 @@ Bot that auto-joins Google Meet sessions, records audio, transcribes, and respon
 `Python` `Playwright` `Groq API` `sounddevice`
 
 ### The Lamppost
-Full-stack web platform with user auth, donation page, community stories section, and prayer wall.
+Full-stack platform built for a faith community, featuring user auth, donations, community stories, and a prayer wall.
 `React` `TypeScript` `Supabase` `Tailwind`
 
 ---
